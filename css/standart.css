@@ -1,0 +1,23 @@
+a {
+    text-decoration: none !important;
+}
+
+th, rd {
+    padding: 10px;
+}
+
+th {
+    background: #606060;
+    color: #fff;
+}
+
+td {
+    text-align: center;
+    max-width: 120%;
+    padding: 1% 15px; /* додаємо відступи 10px по обох боках */
+    background: #b5b5b5;
+}
+
+.delete {
+    color: red;
+}
